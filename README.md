@@ -6,6 +6,7 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 
+This application is used for connecting with the Twitter API
 
 Welcome to your Rails project on Cloud9 IDE!
 
